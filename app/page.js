@@ -15,23 +15,23 @@ export default function Home() {
           <table className="min-w-full text-xs">
             <thead className="rounded-t-lg bg-gray-700">
               <tr className="text-center">
-                <th title="Ranking" className="p-3 text-right">
+                <th title="Ranking" className="pr-3 text-right">
                   الأرقام
                 </th>
-                <th title="Team name" className="p-3 text-center">
+                <th title="Team name" className="p-3 text-right">
                   الأسماء
                 </th>
                 <th title="Wins" className="p-3">
-                  W
+                  الكافية
                 </th>
                 <th title="Losses" className="p-3">
-                  L
+                  مختصر القدوري
                 </th>
                 <th title="Win percentage" className="p-3">
-                  Win%
+                  أصول الشاشي
                 </th>
                 <th title="Games behind" className="p-3">
-                  GB
+                  تاريخ الأمة لخلافة بني أمية
                 </th>
                 <th title="Home games" className="p-3">
                   Home
@@ -49,10 +49,10 @@ export default function Home() {
             </thead>
             <tbody>
               <tr className="text-center border-b border-opacity-20 border-gray-700 bg-gray-800">
-                <td className="px-3 py-2 text-center">
+                <td className="px-3 py-2 text-right">
                   <span>11</span>
                 </td>
-                <td className="px-3 py-2 text-center">
+                <td className="px-3 py-2 text-right">
                   <span>NYK</span>
                 </td>
                 <td className="px-3 py-2">
